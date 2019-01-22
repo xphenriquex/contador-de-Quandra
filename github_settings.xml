@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="xphenriquex" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="cff1d424-3f69-407b-8c6f-550fd40a7311" name="xphenriquex">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
